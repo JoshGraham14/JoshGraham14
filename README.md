@@ -5,8 +5,8 @@ I'm Josh Graham, aspiring Front-end Web Developer currently studying Computer Sc
 
 **About me:**
 - :earth_americas: Based in Ontario, Canada
-- :desktop_computer: Aspiring web developer, focused on frontend
 - :pencil2: Second year CS Student
+- :desktop_computer: Interested in web development, focused on frontend
 - 🌱 I’m currently learning React in my free time
 - 💬 Feel free to contact me at 18jg48@queensu.ca
 
