@@ -1,13 +1,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-joshgraham14-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshgraham14/)](https://www.linkedin.com/in/joshgraham14/) 
 
-I'm Josh, I enjoy building websites and learning new technologies. I am currently in my third year of Computing at Queen's University with a specialization in Software Design.
+I'm Josh, I enjoy building websites and learning new technologies. I am currently in my ourth year of Computing at Queen's University with a specialization in Software Design.
 
 **About me:**
 - :earth_americas: Based in Ontario, Canada
-- :pencil2: Third year CS Student
+- :pencil2: Fourth year CS Student
 - :desktop_computer: Interested in web development, focused on backend
-- 🌱 I’m currently learning Django and React in my free time
+- 🌱 I’m currently learning Next.js and TypeScript in my free time
 - 💬 Feel free to contact me at 18jg48@queensu.ca
 
 **Languages and Tools:**
