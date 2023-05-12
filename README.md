@@ -7,8 +7,8 @@ One thing I particularly enjoy about web development is that there’s always so
 Feel free to message me, I’m always open to chat and explore new opportunities.
 
 ✉ joshgraham14@gmail.com
-💻 github.com/JoshGraham14
-🌐 joshgraham.dev
+💻 [LinkedIn](https://www.linkedin.com/in/joshgraham14/)
+🌐 [joshgraham.dev](https://joshgraham.dev)
 
 
 
