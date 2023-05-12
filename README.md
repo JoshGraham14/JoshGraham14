@@ -1,31 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-joshgraham14-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshgraham14/)](https://www.linkedin.com/in/joshgraham14/) 
+Hi I'm Josh!
 
-I'm Josh, I enjoy building websites and learning new technologies. I am currently in my fourth year of Computing at Queen's University with a specialization in Software Design.
+I recently graduated from Queen’s University with a Bachelor of Computing (Honours) degree, specializing in Software Design. Over the past few years, I have really enjoyed learning and practicing full-stack web development in my freetime. 
 
-**About me:**
-- :earth_americas: Based in Ontario, Canada
-- :pencil2: Fourth year CS Student
-- :desktop_computer: Interested in web development, focused on backend
-- 🌱 I’m currently learning Next.js and TypeScript in my free time
-- 💬 Feel free to contact me at 18jg48@queensu.ca
+One thing I particularly enjoy about web development is that there’s always something new to learn or improve upon. The endless possibilities keep me motivated to continue creating and working on my skills.
 
-**Languages and Tools:**
-<br>
-<p>
-<code><img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</p>
- 
+Feel free to message me, I’m always open to chat and explore new opportunities.
+
+✉ joshgraham14@gmail.com
+💻 github.com/JoshGraham14
+🌐 joshgraham.dev
+
+
 
 **📈 My GitHub Stats:**
 <div align="center">
